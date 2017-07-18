@@ -1,3 +1,3 @@
-# Photos
-photos of me
-and cv of this
+Name : Aakhil
+pLACE : manjeri
+date 18/02/17
